@@ -1,7 +1,3 @@
----
-description: contact us
----
-
 # CONTACT
 
-Email: contact@jlaunchpad.com
+📩 Email: contact@jlaunchpad.com

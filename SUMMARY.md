@@ -5,7 +5,7 @@
   * [BACKED](master/backed/README.md)
     * [Partners](master/backed/partners.md)
     * [Teams](master/backed/teams.md)
-  * [SOCIAL](master/social.md)
+  * [SOCIAL MEDIA](master/social-media.md)
   * [SERVICES](master/services/README.md)
     * [Introduction](master/services/introduction.md)
     * [Full Launchpad Package](master/services/full-launchpad-package.md)
