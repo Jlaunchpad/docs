@@ -4,7 +4,7 @@ _**\*Basic Information**_
 
 | Fullname     | JLaunchPad    |
 | ------------ | ------------- |
-| Symbol       | JLT           |
+| Symbol       | JLP           |
 | Total Supply | 1,000,000,000 |
 | Network      |               |
 | Decimal      |               |
