@@ -1,5 +1,17 @@
 # Information
 
-BNBDoge AI – The Community’s Coin! 🐕🤖
+**💥 BNBDOGE AI AIRDROP - 90 BILLION FREE TOKENS! 💥**
 
-BNBDoge AI is more than just a memecoin; it’s a movement powered by the community and driven by innovation. Built on the robust BNB Chain, this project combines the playful spirit of Doge with the limitless possibilities of AI, making it the perfect coin for meme enthusiasts and tech-savvy investors alike
+BNBDoge AI - The community’s coin, built on the BNB Chain ecosystem, is here! FREE $AIDoge, come and take!
+
+**🔥Event Detail:**&#x20;
+
+🟣Total Supply: 100 billion tokens.&#x20;
+
+🟣Airdrop Allocation: 90 billion tokens (free for the community through Campaigns).&#x20;
+
+🟣Liquidity: 10 billion tokens.&#x20;
+
+🟣Airdrop Duration: From 10/12/2024 to 20/1/2025.
+
+_🌟Join Airdrop here: https://gleam.io/competitions/7Edv0-bnbdoge-ai-airdrop_
