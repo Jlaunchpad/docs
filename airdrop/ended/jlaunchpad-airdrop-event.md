@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # JLaunchpad Airdrop Event
 
 In response to the enthusiastic support of the community during the time, JLaunchpad decided to open Airdrop Event Round 1 to thank the community, with the hope that you will continue to accompany us for a long time.&#x20;
