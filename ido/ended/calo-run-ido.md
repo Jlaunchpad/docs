@@ -1,7 +1,13 @@
 # CALO RUN IDO
 
-YOUR THIRD PART OF CALO TOKENS CAN BE CLAIMED NOW!
+📌CALO IS THE AR (Augmented Reality) FITNESS METAVERSE that harnesses blockchain and NFT technology to reward users for access to fitness and healthy lifestyle. Your NFT is minted by the sweats and calories generated during the workouts. It also serves as your ultimate collectibles NFT that reflect your active lifestyle.
 
-👉 Head there and claim yours!
+👉Time: 5:00, December 10, 2021 - 12:00, December 18, 2021 (UTC)&#x20;
 
-&#x20;[https://calo.jlaunchpad.com/#/claim](https://calo.jlaunchpad.com/#/claim)
+👉Total slots: 1200 slots
+
+👉Price: 25 USDT&#x20;
+
+👉Token claim 1 round: 178&#x20;
+
+👉Total allocation: $30,000

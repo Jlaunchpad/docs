@@ -1,11 +1,13 @@
 # COWBOY SNAKE IDO
 
-♻️ Dear investors,&#x20;
+📌**COWBOY SNAKE** is a game inspired by the Snake game, that each player will control their own snake to eat food that appears around and fight with snakes controlled by other players around the world.&#x20;
 
-✨Your COWS IDO tokens can be claimed right now!&#x20;
+📌In addition to highly entertaining and training acumen for players, COWBOY SNAKE is also a game for you to collect for Snake Rinium (RIM) and create profit through the Play-to-Earn model!
 
-✨Head there and claim your IDO!
+🎁 Total Allocation: $30,000
 
-📍Link: [https://cbs.jlaunchpad.com/#/claim ](https://cbs.jlaunchpad.com/#/claim)
+🎁 Round 1 (300 slots on KOLs Whitelist post): 5:00 - 7:00 Dec 21th, 2021 (UTC)&#x20;
 
-📍How to claim: [https://youtu.be/M59K7igdPsU](https://youtu.be/M59K7igdPsU)
+🎁 Round 2 (300 slots FCFS Gleam): 7:00 - 9:00 Dec 21th, 2021 (UTC)&#x20;
+
+🎁 Price: $0.035

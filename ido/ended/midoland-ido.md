@@ -1,23 +1,21 @@
 # MIDOLAND IDO
 
-🌙 The official RESULT is now released.&#x20;
+**MIDOLAND** is an P2E NFT game concept in which players can design their own universe using unique NFTs housed on Blockchain technology. Inspired by the event of our entire world joining together to fight the global Covid pandemic, Midoland create a platform to connect everyone. In which people can make big impacts to community healthcare beside the Play to Earn function.
 
-🌙 Check now to see whether you are WINNERS.&#x20;
+**⏱ IDO TIME:**&#x20;
 
-📌 WINNERS ROUND 1: Updating&#x20;
+Round 1: 5:00 - 9:00 Jan 26, 2022 (UTC)&#x20;
 
-📌 WINNERS ROUND 2: [https://beurl.app/NiwYJORD](https://beurl.app/NiwYJORD)&#x20;
+Round 2: 9:00 - 11:00 Jan 26, 2022 (UTC)
 
-Don't forget MIDOLAND IDO EVENT is going to start soon with 1 DAY COUNTDOWN.&#x20;
+📌**IDO DETAIL**:
 
-⏱ IDO TIME:&#x20;
+✅ Total amount: 2,000,000 OPV token
 
-✔️ Round 1: 5:00 - 7:00 Jan 26, 2022 (UTC)&#x20;
+✅ Total slot: 2,000 wallet
 
-✔️ Round 2: 7:00 - 9:00 Jan 26, 2022 (UTC)&#x20;
+✅ Allocation Per Wallet: $25/slot
 
-🔰Participate here [http://midoland.jlaunchpad.com/](http://midoland.jlaunchpad.com/)\
-🔰 How to join: [https://youtu.be/KEWJuxkKNbg](https://youtu.be/KEWJuxkKNbg)\
-🔰 How to claim: [https://youtu.be/1HBBsb8neGQ](https://youtu.be/1HBBsb8neGQ)
+✅ Price: $0.065
 
-🎗If you are Round 1 winners and have not bought MIDO IDO yet, you can purchase it in Round 2.
+✅ Hard cap: $130,000

@@ -1,9 +1,15 @@
 # CVZ TOKEN
 
-🌈REMEMBER VESTING SCHEDULE CLAIM YOUR CVZ TOKEN!
+**⏱ IDO TIME:** 2:00 - 12:00 Oct 12, 2021 (UTC)&#x20;
 
-🚀As schedule, today you guys will claim CVZ Token on IDO Remember, it’s the last time for you to claim IDO token as Vesting schedule.
+📌**IDO DETAIL**:
 
-👉Link claim: [https://cvz.jlaunchpad.com/#/claim](https://cvz.jlaunchpad.com/#/claim)
+✅ Total amount: 5,263,157 CVZ token
 
-Note the time so you can not miss!
+✅ Total slot: 2,500 wallet
+
+✅ Allocation Per Wallet: $20/slot&#x20;
+
+✅ Price: $0.019
+
+✅ Hard cap: $100,000
