@@ -1,5 +1,5 @@
 ---
-icon: triangle-exclamation
+icon: ban
 ---
 
 # DISCLAIMER

@@ -1,3 +1,7 @@
+---
+icon: badge-check
+---
+
 # Audit
 
 ## Deployed & Audited by Team Finance <a href="#deployed-and-audited-by-team-finance" id="deployed-and-audited-by-team-finance"></a>

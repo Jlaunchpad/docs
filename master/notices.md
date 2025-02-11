@@ -1,6 +1,6 @@
 ---
+icon: circle-exclamation
 description: Supported Countries & States
-icon: check
 ---
 
 # NOTICES
