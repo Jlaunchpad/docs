@@ -1,10 +1,9 @@
 ---
 description: Supported Countries & States
+icon: check
 ---
 
 # NOTICES
-
-
 
 JLaunchpad is not available to residents of
 

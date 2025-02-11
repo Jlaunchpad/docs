@@ -1,3 +1,7 @@
+---
+icon: triangle-exclamation
+---
+
 # DISCLAIMER
 
 By using this site, you are acknowledged and agree to our rules and policies below. If you are not, please do not use the site.

@@ -1,5 +1,6 @@
 ---
 description: How to Participate in a JLaunchpad IDO
+icon: user-magnifying-glass
 ---
 
 # FOR USER

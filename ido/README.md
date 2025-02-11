@@ -1,2 +1,6 @@
+---
+icon: square-dollar
+---
+
 # IDO
 

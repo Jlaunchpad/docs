@@ -1,3 +1,7 @@
+---
+icon: bitcoin
+---
+
 # TOKENOMICS
 
 _**\*Basic Information**_
