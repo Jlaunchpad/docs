@@ -13,6 +13,7 @@
     * [Full Launchpad Package](master/services/full-launchpad-package.md)
     * [Market Marker (MM)](master/services/market-marker-mm.md)
   * [TOKENOMICS](master/tokenomics.md)
+  * [Audit](master/audit.md)
   * [FOR USER](master/for-user.md)
   * [NOTICES](master/notices.md)
   * [DISCLAIMER](master/disclaimer.md)
