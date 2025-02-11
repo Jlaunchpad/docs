@@ -1,7 +1,6 @@
 # Table of contents
 
 * [WELCOME JLAUNCHPAD](README.md)
-  * [📩 CONTACT](master/contact.md)
   * [BACKER & INVESTOR](master/backer-and-investor/README.md)
     * [Partners](master/backer-and-investor/partners.md)
     * [Teams](master/backer-and-investor/teams.md)
@@ -58,3 +57,4 @@
     * [FADO Go](ido/ended/fado-go.md)
     * [MOCHIPAD](ido/ended/mochipad.md)
     * [TonCapy IDO](ido/ended/toncapy-ido.md)
+* [MORE](more.md)
