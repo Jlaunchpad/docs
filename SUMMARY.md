@@ -13,6 +13,7 @@
   * [FOR USER](master/for-user.md)
   * [NOTICES](master/notices.md)
   * [DISCLAIMER](master/disclaimer.md)
+* [PARTNER](partner.md)
 * [TOKENOMICS](tokenomics.md)
 * [AIRDROP](airdrop/README.md)
   * [ONGOING](airdrop/ongoing/README.md)

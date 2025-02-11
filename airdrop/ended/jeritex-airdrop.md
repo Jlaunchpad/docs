@@ -6,13 +6,21 @@
  🌟Reward:
 ```
 
-👉 Total reward: 20,000 JRIT Tokens 👉 Total winners: 5,000 lucky users 👉 Each member will receive a reward of 4 JRIT Tokens 👉 Token price: 1$
+👉 Total reward: 20,000 JRIT Tokens&#x20;
+
+👉 Total winners: 5,000 lucky users&#x20;
+
+👉 Each member will receive a reward of 4 JRIT Tokens&#x20;
+
+👉 Token price: 1$
 
 ```
  🕑Time:
 ```
 
-👉 The event lasts from October 15 to November 15, 2021 👉 The reward JRIT Tokens will be distributed on December 10, 2021
+👉 The event lasts from October 15 to November 15, 2021&#x20;
+
+👉 The reward JRIT Tokens will be distributed on December 10, 2021
 
 ```
  ❗️Rules: 
