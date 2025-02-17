@@ -10,6 +10,7 @@ icon: user-cowboy
 |    UFIN Labs    |            [https://ufin.org/](https://ufin.org/)            |
 | Ting Foundation |  [https://tingfoundation.com/](https://tingfoundation.com/)  |
 |  Coinstore Labs |   [https://www.coinstore.com/](https://www.coinstore.com/)   |
+|      Web3 X     |     [https://www.w3x.network/](https://www.w3x.network/)     |
 |     TingPad     |         [https://tingpad.app/](https://tingpad.app/)         |
 |      Zupad      |       [https://www.zupad.org/](https://www.zupad.org/)       |
 |      Arbpad     |  [https://arbpad-1.gitbook.io](https://arbpad-1.gitbook.io)  |
