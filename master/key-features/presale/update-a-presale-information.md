@@ -12,8 +12,6 @@
 1. You can edit the following fields: Logo URL, Banner URL, YouTube, Twitter, Github, Discord, Telegram and project description. Some important notes concerning these sections.
 2. Click on “Update Presale” after you are done editing to finish the process.
 
-Important: Once each badge link is updated, please contact us at https://t.me/JLaunchpad to complete the verification process.
+Important: Once each badge link is updated, please contact us at contact@jlaunchpad.com to complete the verification process.
 
 <figure><img src="../../../.gitbook/assets/Presale-Update-2.jpg" alt=""><figcaption></figcaption></figure>
-
-\
