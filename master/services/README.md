@@ -1,6 +1,0 @@
----
-icon: bell-concierge
----
-
-# SERVICES
-
