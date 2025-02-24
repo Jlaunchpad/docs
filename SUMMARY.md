@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WELCOME JLAUNCHPAD](README.md)
+* [WHAT IS JLAUNCHPAD?](README.md)
   * [BACKER & INVESTOR](master/backer-and-investor/README.md)
     * [Partners](master/backer-and-investor/partners.md)
     * [Teams](master/backer-and-investor/teams.md)
