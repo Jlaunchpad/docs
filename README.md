@@ -5,7 +5,7 @@ description: What is JLaunchpad?
 
 # WELCOME JLAUNCHPAD
 
-A **fair launch platform** that helps blockchain projects launch and expand within the Web3 ecosystem. It is backed by **Ting Foundation and UFIN Labs**, two firms have onboarded over **20 million users** and supported more than **200 projects**. The **JLaunchpad Alpha Accelerator Program** is focused on identifying and supporting promising Web3 projects in mini-apps, SocialFi, and GameFi on Telegram.
+A [**fair launch platform**](https://www.jlaunchpad.com/) that helps blockchain projects launch and expand within the Web3 ecosystem. It is backed by **Ting Foundation and UFIN Labs**, two firms have onboarded over **20 million users** and supported more than **200 projects**. The **JLaunchpad Alpha Accelerator Program** is focused on identifying and supporting promising Web3 projects in mini-apps, SocialFi, and GameFi on Telegram.
 
 Projects and investors alike face difficulties in differentiating innovative, quality token projects from low quality, often scam projects in the market. JLaunchpad helps to mitigate this risk through our Independent JLaunchpad Services
 
