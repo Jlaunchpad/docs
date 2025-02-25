@@ -72,7 +72,7 @@
       * [FADO Go](master/ido/ended/fado-go.md)
       * [MOCHIPAD](master/ido/ended/mochipad.md)
       * [TonCapy IDO](master/ido/ended/toncapy-ido.md)
-* [🗾 ROAD MAP](road-map.md)
+* [🗾 ROADMAP](roadmap.md)
 * [FOR USER](for-user.md)
 * [DISCLAIMER](disclaimer.md)
 * [NOTICES](notices.md)
