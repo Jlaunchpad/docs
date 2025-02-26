@@ -29,6 +29,8 @@
       * [Transfer Lock Ownership](master/key-features/locker/transfer-lock-ownership.md)
       * [Withdraw Locked Token](master/key-features/locker/withdraw-locked-token.md)
     * [Airdrop](master/key-features/airdrop.md)
+    * [Loyalty Point](master/key-features/loyalty-point.md)
+    * [Notification Bot](master/key-features/notification-bot.md)
   * [ACCELERATOR PROGRAM](master/accelerator-program.md)
   * [TOKENOMICS](master/tokenomics.md)
   * [AUDIT](master/audit.md)
