@@ -1,4 +1,8 @@
-# Loyalty Point
+---
+icon: crown
+---
+
+# LOYALTY POINT
 
 JLaunchpad introduces a **Loyalty Point System** to reward users for their engagement and contributions to the platform. Earn points through various activities and unlock exclusive benefits!
 

@@ -18,7 +18,7 @@
 
 ## **Benefits**
 
-#### **For Project Owners**
+#### **For Owners**
 
 * Increase investor reach, attracting more participants.
 * Provide transparent project updates, building trust within the community.
