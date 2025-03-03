@@ -11,7 +11,7 @@ description: >-
 
 * Define the purpose and theme of your memecoin.
 * Visit [**JLaunchpad**](https://www.jlaunchpad.com/) to start creating your token.
-* Follow [**introduction**](https://docs.jlaunchpad.com/guideline/for-owners/token).
+* Follow introduction [here](https://docs.jlaunchpad.com/guideline/for-owners/airdrop).
 
 ## **Step 2: Build Your Community**
 
