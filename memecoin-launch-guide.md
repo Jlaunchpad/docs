@@ -21,6 +21,8 @@ description: >-
 
 🔹 _Note: JLaunchpad can support projects in community building, helping them reach potential users and increase visibility._
 
+Apply for support by filling out [the application form](https://forms.gle/DhmTaDAJk3BfKBbf9).
+
 ## **Step 3: List & Monitor Performance**
 
 * **List on DEXs**: JLaunchpad can support to list on Top 10 CEXs straightforward.
