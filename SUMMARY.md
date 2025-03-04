@@ -83,6 +83,7 @@
     * [FADO Go](ido/ended/fado-go.md)
     * [MOCHIPAD](ido/ended/mochipad.md)
     * [TonCapy IDO](ido/ended/toncapy-ido.md)
+* [LISTING EXCHANGE](listing-exchange.md)
 * [🗺️ ROADMAP](roadmap.md)
 * [DISCLAIMER](disclaimer.md)
 * [NOTICES](notices.md)
