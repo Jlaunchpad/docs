@@ -1,6 +1,7 @@
 # Table of contents
 
 * [WHAT IS JLAUNCHPAD?](README.md)
+  * [TEAM](master/team.md)
   * [PARTNER](master/partner/README.md)
     * [Key Partner](master/partner/key-partner.md)
     * [Collaboration](master/partner/collaboration.md)
