@@ -1,4 +1,4 @@
-# 🗾 ROAD MAP
+# 🗺️ ROADMAP
 
 ## 🚀 **Q1 - Q2 2025: Platform Launch & Core Feature Deployment**
 
