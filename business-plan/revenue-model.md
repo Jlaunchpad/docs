@@ -1,3 +1,7 @@
+---
+icon: money-bill
+---
+
 # Revenue Model
 
 * **Token Listing Fees** – Projects pay a fee to get their tokens listed on JLaunchpad for better visibility and trading accessibility.
