@@ -16,7 +16,7 @@ icon: bitcoin
 
 ## _**\*Allocation**_
 
-<table><thead><tr><th>Distribution</th><th>Percentage</th><th width="171">Allocation</th><th>Vesting</th></tr></thead><tbody><tr><td>Private Round</td><td>30.54%</td><td>305,400,000</td><td>TGE 0, cliff 5-month, vesting 4% in the first month, then linear vesting over 24 months</td></tr><tr><td>IDO Round</td><td>5.22%</td><td>52,200,000</td><td>TGE 20%, 0 month cliff, linear vesting at 20% per month over 4 months</td></tr><tr><td>Liquidity</td><td>24.24%</td><td>242,400,000</td><td>TGE 100%</td></tr><tr><td>Airdrop</td><td>10%</td><td>100,000,000</td><td>TGE 100%</td></tr><tr><td>Team</td><td>10%</td><td>100,000,000</td><td>TGE 0, cliff 12-month, linear vesting over 25 months</td></tr><tr><td>Marketing</td><td>10%</td><td>100,000,000</td><td>TGE 5%, linear vesting over 23 months</td></tr><tr><td>Reward</td><td>10%</td><td>100,000,000</td><td>TGE 10%, linear vesting over 11 months</td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/JLaunchpad Tokenomic .png" alt=""><figcaption></figcaption></figure>
 
 ## _\*Token Utilities_
 
