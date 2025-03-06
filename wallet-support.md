@@ -13,4 +13,7 @@ icon: wallet
 | Binance Web3 Wallet |                                      WAITING                                      |
 |  CoinEx Web3 Wallet |                                      WAITING                                      |
 |   Gate Web3 Wallet  |                                      WAITING                                      |
+|      Coinscope      |                     [READY](https://www.coinscope.co/coin/jlp)                    |
+|       Coinhunt      |                     [READY](https://coinsniper.net/coin/78973)                    |
+|      DappRadar      |                                      WAITING                                      |
 
