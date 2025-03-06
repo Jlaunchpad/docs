@@ -5,13 +5,13 @@ description: >-
   themes. Start creating your memecoin on JLaunchpad!
 ---
 
-# MEMECOIN LAUNCH GUIDE
+# Memecoin Launch Guide
 
 ## **Step 1:** Create your token
 
 * Define the purpose and theme of your memecoin.
 * Visit [**JLaunchpad**](https://www.jlaunchpad.com/) to start creating your token.
-* Follow introduction [here](guideline/for-owners/).
+* Follow introduction [here](for-owners/).
 
 ## **Step 2: Build Your Community**
 
