@@ -52,7 +52,7 @@
     * [Alpha Accelerator](business-plan/incubation-program/alpha-accelerator.md)
   * [🗺️ Roadmap](business-plan/roadmap.md)
   * [Marketing Roadmap](business-plan/marketing-roadmap.md)
-* [Airdrop](airdrop/README.md)
+* [AIRDROP](airdrop/README.md)
   * [ONGOING](airdrop/ongoing/README.md)
     * [XFloki](airdrop/ongoing/xfloki.md)
     * [BNBDoge AI](airdrop/ongoing/bnbdoge-ai/README.md)
