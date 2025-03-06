@@ -41,7 +41,7 @@
       * [Emergency Withdraw](guideline/for-users/investing/emergency-withdraw.md)
       * [Affiliate Program](guideline/for-users/investing/affiliate-program.md)
   * [Memecoin Launch Guide](guideline/memecoin-launch-guide.md)
-* [APPROVED PROJECTS](approved-projects.md)
+* [VERIFIED PROJECTS](verified-projects.md)
 * [LISTING EXCHANGE](listing-exchange.md)
 * [BUSINESS PLAN](business-plan/README.md)
   * [Revenue Model](business-plan/revenue-model.md)
