@@ -16,6 +16,7 @@
   * [TOKENOMICS](master/tokenomics/README.md)
     * [Token Utilities](master/tokenomics/token-utilities.md)
     * [Vesting Schedule](master/tokenomics/vesting-schedule.md)
+    * [JLP Token Flow Model](master/tokenomics/jlp-token-flow-model.md)
   * [AUDIT](master/audit.md)
 * [GUIDELINE](guideline/README.md)
   * [For Owners](guideline/for-owners/README.md)
