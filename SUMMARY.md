@@ -14,7 +14,7 @@
     * [Smart Contract](master/product/smart-contract.md)
     * [Update](master/product/update.md)
   * [TOKENOMICS](master/tokenomics/README.md)
-    * [Token Utilities](master/tokenomics/token-utilities.md)
+    * [Token Use Case](master/tokenomics/token-use-case.md)
     * [Vesting Schedule](master/tokenomics/vesting-schedule.md)
     * [JLP Token Flow Model](master/tokenomics/jlp-token-flow-model.md)
   * [AUDIT](master/audit.md)
