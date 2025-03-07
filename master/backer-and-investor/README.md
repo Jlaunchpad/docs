@@ -6,9 +6,9 @@ icon: user-cowboy
 
 |    ORGANIZATION    |                                INFORMATION                               |
 | :----------------: | :----------------------------------------------------------------------: |
-|        BingX       |                       [Detail](https://bingx.com/)                       |
-|      UFIN Labs     |                        [Detail](https://ufin.org/)                       |
 |   Ting Foundation  |                   [Detail](https://tingfoundation.com/)                  |
+|      UFIN Labs     |                        [Detail](https://ufin.org/)                       |
+|        BingX       |                       [Detail](https://bingx.com/)                       |
 |   Coinstore Labs   |                   [Detail](https://www.coinstore.com/)                   |
 |       Web3 X       |                    [Detail](https://www.w3x.network/)                    |
 |       TonCapy      |                    [Detail](https://www.toncapy.com/)                    |
