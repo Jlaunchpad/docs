@@ -2,12 +2,12 @@
 
 ## **Block Emissions**
 
-### JLP is minted every block and divided into two main parts:
+#### JLP is minted every block and divided into two main parts:
 
 * **To distribute**: Allocated to pools and reward systems.
 * **To burn**: A portion of tokens is sent to the burn address.
 
-**JLP Distribution Channels**
+**JLP Distribution Channels:**
 
 * **Syrup Pools**: Tokens are provided for staking.
 * **Farms:** Used to support farming pool.
