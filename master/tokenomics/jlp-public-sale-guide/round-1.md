@@ -9,7 +9,7 @@
 | **Package Detail**    | $1,000 per slot; Fixed package                         |
 | **Total Slots**       | 500 slots                                              |
 | **Vesting Schedule**  | TGE 20%, linear vesting at 20% per month over 4 months |
-| **Sale Link**         |                                                        |
+| **Sale Link**         | TBA                                                    |
 | **Start Time**        | TBA                                                    |
 | **End Time**          | March 28, 2025                                         |
 
