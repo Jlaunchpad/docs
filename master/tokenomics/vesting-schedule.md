@@ -1,3 +1,3 @@
 # Vesting Schedule
 
-<figure><img src="../../.gitbook/assets/photo_2025-03-05_19-03-32.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-03-09 at 11.43.54.png" alt=""><figcaption></figcaption></figure>
