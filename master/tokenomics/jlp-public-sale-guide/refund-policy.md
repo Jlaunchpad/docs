@@ -40,11 +40,11 @@ As part of the newly launched Vesting Marketplace rollout, JLaunchpad has desig
 
 **To request a refund, simply follow these steps:**
 
-* Connect your wallet to the JLaunchpad app and navigate to the Vesting Dashboard.
-* Locate the relevant project and click the “refund” button.
-* Review and accept the refund terms and conditions.
-* Submit your refund request, and our team will process it—please allow up to 48 hours for the refund to be processed.
-* Any fees associated with the original transaction, such as gas fees, may not be refunded.
+* Fill out the required information in the [JLP Refund Application.](https://forms.gle/D6KoNbt1VpjL7LUe7)
+* The request will be processed within **7 days** from the date of submission.
+* After the review period, a response regarding the refund approval status will be sent to the email address you provided in the form.
+
+_Please ensure all information is accurate to avoid delays in processing._
 
 ## Support and Assistance
 
