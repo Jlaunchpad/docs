@@ -8,7 +8,7 @@
 4. Check on the details of your presale token and fill in the "Lock Logo URL" and "Token Logo URL". These are the required fields, cannot be blank. You can’t complete this step without those.&#x20;
 5. Logo URL must end with a supported image extension: png, jpg, jpeg or gif.&#x20;
 
-&#x20;       Example: [https://beurl.app/JLaunchpad-logo](https://beurl.app/JLaunchpad-logo)
+&#x20;       Example: [https://i.ibb.co/jkFDQLWC/JLaunchpad-icon.png](https://i.ibb.co/jkFDQLWC/JLaunchpad-icon.png)
 
 6. Click on the "Next" button to create lock.
 
