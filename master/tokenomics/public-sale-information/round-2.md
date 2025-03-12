@@ -9,7 +9,7 @@
 | **Package Detail**    | $500 per slot; Fixed package                                         |
 | **Total Slots**       | 800 slots                                                            |
 | **Vesting Schedule**  | TGE 33%, linear vesting over 2 months                                |
-| **Sale Link**         | [https://tingpad.app/jlaunchpad-2](https://tingpad.app/jlaunchpad-2) |
+| **Link**              | [https://tingpad.app/jlaunchpad-2](https://tingpad.app/jlaunchpad-2) |
 | **Start Time**        | March 12, 2025                                                       |
 | **End Time**          | March 28, 2025                                                       |
 
@@ -35,4 +35,7 @@
 #### **Step 4: Vesting & Distribution**
 
 * Tokens will be released as per the vesting schedule.
+  * **33% unlocked at TGE**
+  * **33.5% unlocked each month over 2 months**
 * The purchased amount will be reflected in your wallet once the sale ends.
+* TGE can be claimed **24 hours after listing**, with subsequent claims available **every 30 days from the TGE date**.

@@ -9,7 +9,7 @@
 | **Package Detail**    | $50 per slot; Fixed package; Only whitelisted wallet |
 | **Total Slots**       | 6,000 slots                                          |
 | **Vesting Schedule**  | TGE 50%, linear vesting over 1 months                |
-| **Sale Link**         | TBA                                                  |
+| **Link**              | TBA                                                  |
 | **Start Time**        | TBA                                                  |
 | **End Time**          | March 28, 2025                                       |
 
@@ -40,4 +40,7 @@
 #### **Step 5: Vesting & Distribution**
 
 * Tokens will be released as per the vesting schedule.
+  * **50% unlocked at TGE**
+  * **Unlock 50% in the remaining month**
 * The purchased amount will be reflected in your wallet once the sale ends.
+* TGE can be claimed **24 hours after listing**, with subsequent claims available **every 30 days from the TGE date**.
