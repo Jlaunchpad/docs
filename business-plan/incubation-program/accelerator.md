@@ -1,8 +1,4 @@
----
-icon: seedling
----
-
-# ACCELERATOR PROGRAM
+# Accelerator
 
 ## **Hey JLaunchpad Community! 🚀**
 
