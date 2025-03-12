@@ -2,16 +2,16 @@
 
 ## **Key Details**
 
-| **Total Raise**       | $400,000 USDT                         |
-| --------------------- | ------------------------------------- |
-| **Total Sell Amount** | 32,000,000 JLP                        |
-| **Price per JLP**     | $0.0125                               |
-| **Package Detail**    | $500 per slot; Fixed package          |
-| **Total Slots**       | 800 slots                             |
-| **Vesting Schedule**  | TGE 33%, linear vesting over 2 months |
-| **Sale Link**         | TBA                                   |
-| **Start Time**        | TBA                                   |
-| **End Time**          | March 28, 2025                        |
+| **Total Raise**       | $400,000 USDT                                                        |
+| --------------------- | -------------------------------------------------------------------- |
+| **Total Sell Amount** | 32,000,000 JLP                                                       |
+| **Price per JLP**     | $0.0125                                                              |
+| **Package Detail**    | $500 per slot; Fixed package                                         |
+| **Total Slots**       | 800 slots                                                            |
+| **Vesting Schedule**  | TGE 33%, linear vesting over 2 months                                |
+| **Sale Link**         | [https://tingpad.app/jlaunchpad-2](https://tingpad.app/jlaunchpad-2) |
+| **Start Time**        | March 12, 2025                                                       |
+| **End Time**          | March 28, 2025                                                       |
 
 ## **How to Participate**
 
