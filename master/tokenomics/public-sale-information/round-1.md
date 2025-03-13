@@ -31,3 +31,5 @@
 * The purchased amount will be reflected in your wallet once the sale ends.
 * TGE can be claimed **24 hours after listing**, with subsequent claims available **every 30 days from the TGE date**.
 
+{% embed url="https://drive.google.com/file/d/1aG-bRrhI5Emm-EJi5uhsFbR6yiFXYxUi/view?usp=drive_link" %}
+

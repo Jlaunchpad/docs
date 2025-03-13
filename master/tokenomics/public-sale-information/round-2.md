@@ -39,3 +39,5 @@
   * **33.5% unlocked each month over 2 months**
 * The purchased amount will be reflected in your wallet once the sale ends.
 * TGE can be claimed **24 hours after listing**, with subsequent claims available **every 30 days from the TGE date**.
+
+{% embed url="https://drive.google.com/file/d/1Yb7CfRcvbCm80Ax6aKguAPRr9Ixfubqk/view?usp=drive_link" %}
