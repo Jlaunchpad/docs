@@ -53,7 +53,7 @@
       * [Emergency Withdraw](guideline/for-users/investing/emergency-withdraw.md)
       * [Affiliate Program](guideline/for-users/investing/affiliate-program.md)
   * [Memecoin Launch Guide](guideline/memecoin-launch-guide.md)
-* [WALLET SUPPORT](wallet-support.md)
+* [DAPP SUPPORT](dapp-support.md)
 * [VERIFIED PROJECTS](verified-projects.md)
 * [LISTING EXCHANGE](listing-exchange.md)
 * [BUSINESS PLAN](business-plan/README.md)
