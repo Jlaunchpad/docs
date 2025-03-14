@@ -2,16 +2,7 @@
 
 ## **Key Details**
 
-| **Total Raise**       | $300,000 USDT                                        |
-| --------------------- | ---------------------------------------------------- |
-| **Total Sell Amount** | 16,000,000 JLP                                       |
-| **Price per JLP**     | $0.0188                                              |
-| **Package Detail**    | $50 per slot; Fixed package; Only whitelisted wallet |
-| **Total Slots**       | 6,000 slots                                          |
-| **Vesting Schedule**  | TGE 50%, linear vesting over 1 months                |
-| **Link**              | TBA                                                  |
-| **Start Time**        | TBA                                                  |
-| **End Time**          | March 28, 2025                                       |
+<table data-header-hidden><thead><tr><th width="268.65234375"></th><th></th></tr></thead><tbody><tr><td><strong>Total Raise</strong></td><td>$300,000 USDT</td></tr><tr><td><strong>Total Sell Amount</strong></td><td>16,000,000 JLP</td></tr><tr><td><strong>Price per JLP</strong></td><td>$0.0188</td></tr><tr><td><strong>Package Detail</strong></td><td>$50 per slot; Fixed package; Only whitelisted wallet</td></tr><tr><td><strong>Total Slots</strong></td><td>6,000 slots</td></tr><tr><td><strong>Vesting Schedule</strong></td><td>TGE 50%, linear vesting over 1 months</td></tr><tr><td><strong>Link</strong></td><td>TBA</td></tr><tr><td><strong>Start Time</strong></td><td>March 26, 2025</td></tr><tr><td><strong>End Time</strong></td><td>March 28, 2025</td></tr></tbody></table>
 
 ## **How to Participate**
 
@@ -23,6 +14,7 @@
 
 #### **Step 2: Whitelist Verification**
 
+* Join the Whitelist Progam: [https://rewards.taskon.xyz/quest/676333069](https://rewards.taskon.xyz/quest/676333069)
 * Only whitelisted addresses will be eligible to purchase JLP.
 * Ensure your wallet address is **correct and registered** before the sale starts.
 
