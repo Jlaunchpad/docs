@@ -1,4 +1,8 @@
-# 𝐌𝐎𝐍𝐈𝐖𝐀𝐑 𝐈𝐃𝐎
+---
+description: hiar
+---
+
+# Moniwar
 
 **Moniwar** is an NFTs ecosystem in the blockchain space that delivers sustainable value to our users and investors. The comprehensive ecosystem comprises Pet Hybrid Monster - The lucrative NFT fantasy-themed PUZZLE BATTLES game on BSC and Polygon, high liquidity NFT Marketplace, world-class collectibles, and Moniwar community.
 
