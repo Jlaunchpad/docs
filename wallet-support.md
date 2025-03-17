@@ -6,12 +6,16 @@ icon: wallet
 
 |         NAME        |                                       STATUS                                      |
 | :-----------------: | :-------------------------------------------------------------------------------: |
-|       DAppBay       |              [READY](https://dappbay.bnbchain.org/detail/jlaunchpad)              |
 |  Bitget Web3 Wallet | [READY](https://www.jlaunchpad.com/?utm_source=BitgetWallet\&source=BitgetWallet) |
 |   OKX Web3 Wallet   |                        [READY](https://www.jlaunchpad.com/)                       |
+|       DAppBay       |              [READY](https://dappbay.bnbchain.org/detail/jlaunchpad)              |
+|      DappRadar      |                  [READY](https://dappradar.com/dapp/jlaunchpad)                  |
+|       Coinvote      |                  [READY](https://coinvote.cc/en/coin/JLaunchpad)                  |
 |      Coinscope      |                     [READY](https://www.coinscope.co/coin/jlp)                    |
 |       Coinhunt      |                     [READY](https://coinsniper.net/coin/78973)                    |
-|      DappRadar      |                  [READY](https://dappradar.com/dapp/jlaunchpad)                  |
+|      GemFinder      |                      [READY](https://gemfinder.cc/gem/25973)                      |
+|     Coincatapult    |              [READY](https://coincatapult.com/coin/jlaunchpad-jlp-1)              |
+|   MycoinvoteREADY   |                                                                                   |
 |  Bybit Web3 Wallet  |                                      WAITING                                      |
 | Binance Web3 Wallet |                                      WAITING                                      |
 |  CoinEx Web3 Wallet |                                      WAITING                                      |
