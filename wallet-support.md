@@ -15,7 +15,7 @@ icon: wallet
 |       Coinhunt      |                     [READY](https://coinsniper.net/coin/78973)                    |
 |      GemFinder      |                      [READY](https://gemfinder.cc/gem/25973)                      |
 |     Coincatapult    |              [READY](https://coincatapult.com/coin/jlaunchpad-jlp-1)              |
-|   MycoinvoteREADY   |                                                                                   |
+|      Mycoinvote     |              [READY](https://mycoinvote.com/coin/6243/JLP/JLaunchpad)             |
 |  Bybit Web3 Wallet  |                                      WAITING                                      |
 | Binance Web3 Wallet |                                      WAITING                                      |
 |  CoinEx Web3 Wallet |                                      WAITING                                      |
