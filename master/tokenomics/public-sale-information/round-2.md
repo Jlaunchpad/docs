@@ -23,7 +23,7 @@
 
 #### **Step 2: Access the Sale**
 
-* Visit the official **JLP Public Sale** page: TBA
+* Visit the official **JLP Public Sale** page: [https://tingpad.app/jlaunchpad-2](https://tingpad.app/jlaunchpad-2)
 * Connect your wallet and verify eligibility.
 
 #### **Step 3: Purchase JLP Tokens**
