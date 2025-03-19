@@ -27,6 +27,7 @@
       * [Round 1](master/tokenomics/public-sale-information/round-1.md)
       * [Round 2](master/tokenomics/public-sale-information/round-2.md)
       * [Round 3](master/tokenomics/public-sale-information/round-3.md)
+      * [Special Round](master/tokenomics/public-sale-information/special-round.md)
       * [Refund Policy](master/tokenomics/public-sale-information/refund-policy.md)
   * [AUDIT](master/audit.md)
 * [GUIDELINE](guideline/README.md)

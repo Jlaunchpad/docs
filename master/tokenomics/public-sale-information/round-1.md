@@ -2,7 +2,7 @@
 
 ## **Key Details**
 
-<table data-header-hidden><thead><tr><th width="267"></th><th></th></tr></thead><tbody><tr><td><strong>Total Raise</strong></td><td>$500,000 USDT</td></tr><tr><td><strong>Total Sell Amount</strong></td><td>66,666,667 JLP</td></tr><tr><td><strong>Price per JLP</strong></td><td>$0.0075</td></tr><tr><td><strong>Package Detail</strong></td><td>$1,000 per slot; Fixed package</td></tr><tr><td><strong>Total Slots</strong></td><td>500 slots</td></tr><tr><td><strong>Vesting Schedule</strong></td><td>TGE 20%, linear vesting at 20% per month over 4 months</td></tr><tr><td><strong>Link</strong></td><td><a href="https://tingpad.app/jlaunchpad-1">https://tingpad.app/jlaunchpad-1</a></td></tr><tr><td><strong>Start Time</strong></td><td>March 12, 2025</td></tr><tr><td><strong>End Time</strong></td><td>March 28, 2025</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="267"></th><th></th></tr></thead><tbody><tr><td><strong>Total Raise</strong></td><td>$400,000 USDT</td></tr><tr><td><strong>Total Sell Amount</strong></td><td>53,333,333 JLP</td></tr><tr><td><strong>Price per JLP</strong></td><td>$0.0075</td></tr><tr><td><strong>Package Detail</strong></td><td>$1,000 per slot; Fixed package</td></tr><tr><td><strong>Total Slots</strong></td><td>400 slots</td></tr><tr><td><strong>Vesting Schedule</strong></td><td>TGE 20%, linear vesting at 20% per month over 4 months</td></tr><tr><td><strong>Link</strong></td><td><a href="https://tingpad.app/jlaunchpad-1">https://tingpad.app/jlaunchpad-1</a></td></tr><tr><td><strong>Start Time</strong></td><td>March 12, 2025</td></tr><tr><td><strong>End Time</strong></td><td>March 28, 2025</td></tr></tbody></table>
 
 ## **How to Participate**
 
