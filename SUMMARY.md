@@ -56,6 +56,7 @@
   * [Memecoin Launch Guide](guideline/memecoin-launch-guide.md)
 * [DAPP SUPPORT](wallet-support.md)
 * [VERIFIED PROJECTS](verified-projects.md)
+* [LIQUIDITY TOKEN](liquidity-token.md)
 * [LISTING EXCHANGE](listing-exchange.md)
 * [BUSINESS PLAN](business-plan/README.md)
   * [Revenue Model](business-plan/revenue-model.md)
