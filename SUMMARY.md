@@ -136,4 +136,4 @@
 * [ADDITIONAL SERVICES](additional-services/README.md)
   * [Audit Services by Ting Audit](additional-services/audit-services-by-ting-audit.md)
 * [COMMUNITY](community/README.md)
-  * [Live Project Topic Rules](community/live-project-topic-rules.md)
+  * [Live Project](community/live-project.md)
