@@ -29,6 +29,7 @@
       * [Round 3](master/tokenomics/public-sale-information/round-3.md)
       * [Special Round](master/tokenomics/public-sale-information/special-round.md)
       * [Refund Policy](master/tokenomics/public-sale-information/refund-policy.md)
+    * [Wallet Verified](master/tokenomics/wallet-verified.md)
   * [AUDITED JLP CONTRACT](master/audited-jlp-contract.md)
 * [GUIDELINE](guideline/README.md)
   * [For Owners](guideline/for-owners/README.md)
