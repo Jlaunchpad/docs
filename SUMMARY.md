@@ -65,7 +65,7 @@
   * [Loyalty Point](business-plan/loyalty-point.md)
   * [Incubation Program](business-plan/incubation-program/README.md)
     * [Alpha Accelerator](business-plan/incubation-program/alpha-accelerator.md)
-    * [Accelerator](business-plan/incubation-program/accelerator.md)
+    * [Beta Accelerator](business-plan/incubation-program/beta-accelerator.md)
   * [🗺️ Roadmap](business-plan/roadmap.md)
   * [Marketing Roadmap](business-plan/marketing-roadmap.md)
 * [AIRDROP](airdrop/README.md)
