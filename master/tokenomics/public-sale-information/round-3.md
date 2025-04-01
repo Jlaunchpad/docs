@@ -2,7 +2,7 @@
 
 ## **Key Details**
 
-<table data-header-hidden><thead><tr><th width="268.65234375"></th><th></th></tr></thead><tbody><tr><td><strong>Total Raise</strong></td><td>$300,000 USDT</td></tr><tr><td><strong>Total Sell Amount</strong></td><td>16,000,000 JLP</td></tr><tr><td><strong>Price per JLP</strong></td><td>$0.01875</td></tr><tr><td><strong>Package Detail</strong></td><td>$50 per slot; Fixed package; Only whitelisted wallet</td></tr><tr><td><strong>Total Slots</strong></td><td>6,000 slots</td></tr><tr><td><strong>Vesting Schedule</strong></td><td>TGE 50%, linear vesting over 1 months</td></tr><tr><td><strong>Link</strong></td><td>TBA</td></tr><tr><td><strong>Start Time</strong></td><td>March 26, 2025</td></tr><tr><td><strong>End Time</strong></td><td>March 28, 2025</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="268.65234375"></th><th></th></tr></thead><tbody><tr><td><strong>Total Raise</strong></td><td>$300,000 USDT</td></tr><tr><td><strong>Total Sell Amount</strong></td><td>16,000,000 JLP</td></tr><tr><td><strong>Price per JLP</strong></td><td>$0.01875</td></tr><tr><td><strong>Package Detail</strong></td><td>$50 per slot; Fixed package; Only whitelisted wallet</td></tr><tr><td><strong>Total Slots</strong></td><td>6,000 slots</td></tr><tr><td><strong>Vesting Schedule</strong></td><td>TGE 50%, linear vesting over 1 month</td></tr><tr><td><strong>Link</strong></td><td>TBA</td></tr><tr><td><strong>Start Time</strong></td><td>March 26, 2025</td></tr><tr><td><strong>End Time</strong></td><td>March 28, 2025</td></tr></tbody></table>
 
 ## **How to Participate**
 
