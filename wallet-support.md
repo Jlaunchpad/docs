@@ -7,8 +7,9 @@ icon: wallet
 |         NAME        |                                       STATUS                                      |
 | :-----------------: | :-------------------------------------------------------------------------------: |
 | Binance Web3 Wallet |                        [READY](https://www.jlaunchpad.com/)                       |
-|  Bitget Web3 Wallet | [READY](https://www.jlaunchpad.com/?utm_source=BitgetWallet\&source=BitgetWallet) |
+|   Gate Web3 Wallet  |           [READY](https://www.gate.io/web3/dapps/dapp-detail?id=15569)           |
 |   OKX Web3 Wallet   |                        [READY](https://www.jlaunchpad.com/)                       |
+|  Bitget Web3 Wallet | [READY](https://www.jlaunchpad.com/?utm_source=BitgetWallet\&source=BitgetWallet) |
 |       DAppBay       |              [READY](https://dappbay.bnbchain.org/detail/jlaunchpad)              |
 |      DappRadar      |                  [READY](https://dappradar.com/dapp/jlaunchpad)                  |
 |       Coinvote      |                  [READY](https://coinvote.cc/en/coin/JLaunchpad)                  |
@@ -20,5 +21,4 @@ icon: wallet
 |      Mycoinvote     |              [READY](https://mycoinvote.com/coin/6243/JLP/JLaunchpad)             |
 |  Bybit Web3 Wallet  |                                      WAITING                                      |
 |  CoinEx Web3 Wallet |                                      WAITING                                      |
-|   Gate Web3 Wallet  |                                      WAITING                                      |
 
