@@ -1,10 +1,10 @@
 # Hold to Earn
 
-## 🔥 **Get Ready – Your Ticket to 20 ALPHA PROJECT Airdrops on JLaunchpad!**
+### 🔥 **Get Ready – Your Ticket to 20 ALPHA PROJECT Airdrops on JLaunchpad!**
 
 Hold **just 10,000 JLP** in your Web3 wallet and unlock **exclusive token airdrops from 20 high-potential ALPHA PROJECTS** launching on JLaunchpad.
 
-## ✨ **Why Join?**
+### ✨ **Why Join?**
 
 &#x20;Guaranteed rewards – **claim tokens from 20 projects** with a single hold.\
 &#x20;**One claim per wallet** – be among the first to secure your share.\
