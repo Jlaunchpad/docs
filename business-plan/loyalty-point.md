@@ -8,7 +8,7 @@ JLaunchpad introduces a **Loyalty Point System** to reward users for their engag
 
 | ACTIVITY                  | POINTS | LIMITATIONS                     | NOTES                                                                 |
 | ------------------------- | ------ | ------------------------------- | --------------------------------------------------------------------- |
-| **Connect Wallet**        | +1     | 1 wallet address / 1 IP per day | Loyalty points are recorded in this wallet                            |
+| **Connect Wallet**        | +10    | 1 wallet address / 1 IP per day | Loyalty points are recorded in this wallet                            |
 | **Create Token**          | +1     | No limit                        | -                                                                     |
 | **Multisender**           | +2     | No limit                        | -                                                                     |
 | **Create Presale**        | +2     | No limit                        | -                                                                     |
