@@ -64,6 +64,7 @@
 * [BUSINESS PLAN](business-plan/README.md)
   * [Revenue Model](business-plan/revenue-model.md)
   * [Loyalty Point](business-plan/loyalty-point.md)
+  * [Copy](business-plan/copy.md)
   * [Incubation Program](business-plan/incubation-program/README.md)
     * [Alpha Accelerator](business-plan/incubation-program/alpha-accelerator.md)
     * [Beta Accelerator](business-plan/incubation-program/beta-accelerator.md)

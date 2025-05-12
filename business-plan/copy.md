@@ -1,8 +1,9 @@
 ---
+hidden: true
 icon: crown
 ---
 
-# Loyalty Point
+# Copy
 
 JLaunchpad introduces a **Loyalty Point System** to reward users for their engagement and contributions to the platform. Earn points through various activities and unlock exclusive benefits!
 
@@ -15,4 +16,8 @@ JLaunchpad introduces a **Loyalty Point System** to reward users for their engag
 | **Contribute to Presale** | +1     | No limit                        | -                                                                     |
 | **Share Affiliate Link**  | +2     | No limit                        | Sponsor earns points when a referred user makes a successful purchase |
 | **Create Lock**           | +2     | No limit                        | -                                                                     |
+| **Create Staking Pool**   | +2     | No limit                        | -                                                                     |
+| **Stake a Term**          | +1     | No limit                        | -                                                                     |
+| **Create Term Staking**   | +2     | No limit                        | -                                                                     |
+| **Farming**               | +1     | No limit                        | -                                                                     |
 
