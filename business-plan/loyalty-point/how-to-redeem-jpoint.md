@@ -6,11 +6,17 @@ Ensure your wallet is properly connected to the platform so the system can ident
 
 ### Step 2: Request to claim JPoint
 
-Once you’ve reached 10,000 JPoint, click the Request Claim button to submit your request.
+Once you’ve reached 10,000 JPoint, click the Request Claim button to submit your request and Confirm it on your wallet.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-05-21 at 14.45.35.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-05-21 at 14.47.22.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Wait for processing
 
-Your JPoint will be automatically sent to your wallet at 14:00 (UTC) on the same day. You’ll receive a confirmation message upon success.c
+Your JPoint will be automatically sent to your wallet at 14:00 (UTC) on the same day. You’ll receive a confirmation message upon success.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-05-21 at 14.48.15.png" alt=""><figcaption></figcaption></figure>
 
 #### Note:
 
