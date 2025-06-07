@@ -8,7 +8,7 @@ A [**fairlaunch platform**](https://www.jlaunchpad.com/) that helps blockchain p
 
 Projects and investors alike face difficulties in differentiating innovative, quality token projects from low quality, often scam projects in the market. JLaunchpad helps to mitigate this risk through our Independent JLaunchpad Services
 
-Before a project is put on the JLaunchpad , they all have to go through a rigorous review process to determine whether projects meet Binance's standards. Factors include:&#x20;
+Before a project is put on the JLaunchpad , they all have to go through a rigorous review process to determine whether projects meet JLaunchpad's standards. Factors include:&#x20;
 
 * The project has grown to a relatively mature step.
 * Ability to ready to large-scale expansion.
